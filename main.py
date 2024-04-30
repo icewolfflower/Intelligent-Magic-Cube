@@ -1,5 +1,3 @@
-"""Main file"""
-
 import array
 import copy
 import math
